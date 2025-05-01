@@ -9,14 +9,24 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
 1.Import required libraries.
+
 2.Load the salary data from CSV.
+
 3.Check data and handle missing values.
+
 4.Convert 'Position' to numbers using Label Encoding.
+
 5.Set features (Position, Level) and target (Salary).
+
 6.Split data into training and test sets.
+
 7.Train a Decision Tree Regressor model.
+
 8.Predict salaries on test data.
-9.Evaluate the model (MSE and R² Score). 10.Predict salary for a given Position and Level.
+
+9.Evaluate the model (MSE and R² Score). 
+
+10.Predict salary for a given Position and Level.
 
 ## Program and output:
 ```
